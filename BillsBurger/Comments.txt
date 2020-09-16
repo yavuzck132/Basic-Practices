@@ -1,0 +1,6 @@
+This code allows the user to choose from burger menus. 
+It is possible to create new burger menus.
+
+Possible improvements:
+-This code does not %100 follow encapsualtion, since the price is not private.
+-One of the many ways to fix this is to use getters and setters instead of constructor.
