@@ -1,0 +1,1 @@
+A java code that finds the minimum value in an array.

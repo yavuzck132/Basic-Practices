@@ -1,0 +1,3 @@
+It is an array sorter.
+It allows the user to create an array with the amount of element that the user wants. Then it sorts the array to the decending order.
+Lastly, it prints both the sorted and unsorted arrays.
